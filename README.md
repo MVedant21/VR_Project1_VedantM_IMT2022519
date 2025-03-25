@@ -157,4 +157,4 @@ after which you can run the notebooks.
 
 ---
 
-Github Link : https://github.com/mohit065/VR_Project1_MohitNaik_IMT2022076
+Github Link : https://github.com/MVedant21/VR_Project1_VedantM_IMT2022519
